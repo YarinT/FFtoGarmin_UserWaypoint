@@ -1,1 +1,1 @@
-Use this simple Python script to convert between KML file to Garmin Pilot user waypoints CSV file.
+Use this simple Python script to convert Foreflight KML's file to Garmin Pilot user waypoints CSV file.
